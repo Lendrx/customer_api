@@ -29,7 +29,7 @@ for i in range(1, num_records + 1):
 df = pd.DataFrame(data, columns=["customer_id", "name", "age", "gender", "purchase_history", "total_spent"])
 
 # Speichern als CSV-Datei
-output_path = '/Users/lennartdreisbach/Data Science/Github/customerAPI/app/data/dataset.csv'
+output_path = # hier den Pfad ein geben, wo die .csv Datei abgelegt werden soll
 df.to_csv(output_path, index=False)
 
 output_path
