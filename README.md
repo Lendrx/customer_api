@@ -29,7 +29,7 @@ KundenInsight Pro ist eine moderne, leistungsstarke API zur Kundenanalyse, die U
 
 ```bash
 # Repository klonen
-git clone https://github.com/deinername/kundeninsight-pro.git
+git clone https://github.com/deinname/repositoryname.git
 
 # Virtuelle Umgebung erstellen
 python -m venv venv
