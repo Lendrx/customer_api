@@ -70,10 +70,3 @@ MIT License
 - [ ] Erweiterte Authentifizierung
 - [ ] Mehr Segmentierungsoptionen
 
-## 👥 Kontakt
-
-Dein Name - deine@email.com
-
----
-
-**Entwickelt mit ❤️ für datengetriebene Unternehmen**
